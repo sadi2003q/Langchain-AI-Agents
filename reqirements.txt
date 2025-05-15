@@ -1,0 +1,17 @@
+langchain
+langchain-google-genai
+langchain_google_community
+duckduckgo-search
+wikipedia
+langchain-tavily
+reportlab
+python-dotenv
+langchain_google_community
+langchain_openai
+langchain
+langchain-google-vertexai
+pdfplumber
+python-dotenv
+pypdf
+unstructured
+streamlit
