@@ -15,3 +15,8 @@ python-dotenv
 pypdf
 unstructured
 streamlit
+google-adk
+yfinance
+psutil
+litellm
+google-generativeai
