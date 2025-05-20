@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
 def get_current_time() -> dict:
     """Get the current time in the format YYYY-MM-DD HH:MM:SS
     :return: "current_time": {Value}
