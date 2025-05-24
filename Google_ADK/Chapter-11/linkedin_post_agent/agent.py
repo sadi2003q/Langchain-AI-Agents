@@ -22,7 +22,7 @@ refinement_loop = LoopAgent(
     description="Iteratively reviews and refines a LinkedIn post until quality requirements are met",
 )
 
-# Create the Sequential Pipeline
+# Create the Sequential Pipeline and this is working
 root_agent = SequentialAgent(
     name="LinkedInPostGenerationPipeline",
     sub_agents=[
